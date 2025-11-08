@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822659689918",
+    "project_id": "trunk-tech",
+    "storage_bucket": "trunk-tech.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822659689918:android:a07e983e56d73ee7669def",
+        "android_client_info": {
+          "package_name": "com.example.trunk_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb4-vhbJ-r7AW7WpJy8g5zGu9cNZaEDAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
