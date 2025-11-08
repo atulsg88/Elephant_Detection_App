@@ -71,7 +71,7 @@
         <!-- Google Maps API Key from your file -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAKJq4xGvc8BAcaB_dtTVzZ0cVe_JXbTPk" />
+            android:value=" ****//Google Map API Key//**** " />
     </application>
 
 </manifest>
