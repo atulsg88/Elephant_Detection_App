@@ -9,12 +9,12 @@ from firebase_admin import credentials, db, messaging
 # === CONFIGURATION ===
 # ==============================================================================
 SERVICE_ACCOUNT_FILE = "firebase_credentials.json"
-DATABASE_URL = 'https://trunk-tech-default-rtdb.firebaseio.com/' 
+DATABASE_URL = '' 
 FCM_TOPIC = 'elephant_alerts' 
 SYSTEM_ID = "D83ADDA36241" 
 
 MODEL_PATH = 'yolov8n.pt'                                        
-VIDEO_PATH = "elephant.mp4"                         
+VIDEO_PATH = "elephant.mp4"  //Video or Camera                       
 CONFIDENCE_THRESHOLD = 0.5                                       
 GPS_LATITUDE = 18.6517
 GPS_LONGITUDE = 73.7651
